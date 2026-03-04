@@ -114,6 +114,3 @@ This project demonstrates strong skills in:
 - Business Reporting
 
 ---
-
-git clone https://github.com/your-username/project-name.git
-cd project-name
