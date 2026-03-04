@@ -112,5 +112,3 @@ This project demonstrates strong skills in:
 - Data Visualization
 - Analytical Thinking
 - Business Reporting
-
----
